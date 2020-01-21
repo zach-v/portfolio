@@ -1,2 +1,3 @@
 ## Welcome to my portfolio
-Lots of stuff coming. Big stuff.
+Link to it can be viewed here:
+https://zach-v.github.io/portfolio/
